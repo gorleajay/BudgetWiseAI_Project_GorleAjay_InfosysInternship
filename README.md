@@ -11,6 +11,7 @@ The system integrates a clean **Streamlit web interface**, secure **SQLite stora
 
 This project demonstrates real-world implementation of **AI/ML**, **model training**, **frontend dashboards**, **backend logic**, and **end-to-end deployment**.
 
+APP LINK:https://budgetwise-ai.streamlit.app/
 ---
 
 ##  Key Features
@@ -69,11 +70,9 @@ This project demonstrates real-world implementation of **AI/ML**, **model traini
 ├── models/
 │   └── best_finance_model.pkl      # Final trained model
 │
-├── database/                       # Future: SQLite DB file will appear here
+├── images/                         # screenshots, visual outputs
 │
-├── images/                         # Future: screenshots, visual outputs
-│
-├── docs/                           # Future documentation files
+├── docs/                           # documentation files
 │
 ├── personal_finance_tracker_dataset_inr.csv
 ├── requirements.txt
@@ -124,6 +123,28 @@ python code/train_finance_model.py
 - **Pandas & NumPy**
 
 ---
+
+##  How to Run Locally
+
+Once you have installed the required dependencies:
+
+1. Navigate to the project folder:
+   ```bash
+   cd BudgetWiseAI_Project_GorleAjay_InfosysInternship
+
+2. Run the Streamlit application:
+
+streamlit run code/app.py
+
+3. (Optional) Retrain the ML model:
+
+python code/train_finance_model.py
+
+This will launch the BudgetWise AI app in your browser on localhost
+
+or else you can access directly through this link
+   :https://budgetwise-ai.streamlit.app/
+
 
 ##  Internship Contribution
 

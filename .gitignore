@@ -1,0 +1,72 @@
+# -------------------------
+# Python Cache Files
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# -------------------------
+# Virtual Environments
+# -------------------------
+venv/
+env/
+.venv/
+
+# -------------------------
+# Streamlit Cache
+# -------------------------
+.streamlit/
+.streamlit/credentials.toml
+.streamlit/secrets.toml
+
+# -------------------------
+# Machine Learning Artifacts
+# -------------------------
+*.pkl
+*.joblib
+*.h5
+*.ckpt
+
+# Allow ONLY your final model file:
+!models/best_finance_model.pkl
+
+# -------------------------
+# SQLite Database Files
+# -------------------------
+*.db
+*.sqlite3
+
+# -------------------------
+# Jupyter Notebook Checkpoints
+# -------------------------
+.ipynb_checkpoints/
+
+# -------------------------
+# System Files (Windows / Mac)
+# -------------------------
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# -------------------------
+# Logs & Temp Files
+# -------------------------
+*.log
+*.tmp
+
+# -------------------------
+# Dataset backups
+# -------------------------
+*.csv~
+*.bak
+
+# -------------------------
+# VS Code Workspace
+# -------------------------
+.vscode/
+
+# -------------------------
+# pycache inside subfolders
+# -------------------------
+*/__pycache__/
