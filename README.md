@@ -57,6 +57,12 @@ APP LINK:https://budgetwise-ai.streamlit.app/
 - Import CSV files into the system
 
 ---
+### Presentation
+- Slides are available in the `presentation/` folder.
+
+### Completion Report
+- Project completion report is available in the `docs/` folder.
+
 
 ##  Project Structure
 
@@ -74,6 +80,7 @@ APP LINK:https://budgetwise-ai.streamlit.app/
 │
 ├── docs/                           # documentation files
 │
+|──presentation                     #ppt
 ├── personal_finance_tracker_dataset_inr.csv
 ├── requirements.txt
 ├── LICENSE
@@ -82,7 +89,7 @@ APP LINK:https://budgetwise-ai.streamlit.app/
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ###  Clone the repository
 
