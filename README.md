@@ -11,7 +11,7 @@ The system integrates a clean **Streamlit web interface**, secure **SQLite stora
 
 This project demonstrates real-world implementation of **AI/ML**, **model training**, **frontend dashboards**, **backend logic**, and **end-to-end deployment**.
 
-APP LINK:https://budgetwise-ai.streamlit.app/
+APP LINK:https://budgetwiseaibasedexpenseforecastingtool.streamlit.app
 ---
 
 ##  Key Features
