@@ -150,7 +150,7 @@ python code/train_finance_model.py
 This will launch the BudgetWise AI app in your browser on localhost
 
 or else you can access directly through this link
-   :https://budgetwise-ai.streamlit.app/
+   :https://budgetwiseaibasedexpenseforecastingtool.streamlit.app
 
 
 ##  Internship Contribution
